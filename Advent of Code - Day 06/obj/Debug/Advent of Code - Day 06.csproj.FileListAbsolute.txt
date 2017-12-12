@@ -1,0 +1,5 @@
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Day 06\Advent of Code - Day 06\bin\Debug\Advent of Code - Day 06.exe
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Day 06\Advent of Code - Day 06\bin\Debug\Advent of Code - Day 06.pdb
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Day 06\Advent of Code - Day 06\obj\Debug\Advent of Code - Day 06.csprojResolveAssemblyReference.cache
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Day 06\Advent of Code - Day 06\obj\Debug\Advent of Code - Day 06.exe
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Day 06\Advent of Code - Day 06\obj\Debug\Advent of Code - Day 06.pdb
